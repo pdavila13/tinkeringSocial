@@ -169,6 +169,8 @@ return [
          * See: https://github.com/acacha/llum
          */
         Acacha\AdminLTETemplateLaravel\Providers\AdminLTETemplateServiceProvider::class,
+        Acacha\LaravelSocial\Providers\LaravelSocialServiceProvider::class,
+        Acacha\LaravelSocial\Providers\LaravelSocialServiceProvider::class,
         #llum_providers
 
         /*
